@@ -24,8 +24,8 @@ Thumbs.db
 # db/diagnostics.db
 
 # Data files
-data/patient_data/*.csv
-data/stock_data/*.csv
+# data/patient_data/*.csv
+# data/stock_data/*.csv
 
 # Streamlit cache
 .streamlit/

@@ -126,12 +126,12 @@ def generate_dynamic_sample_questions(question_type, current_query="", _chatbot=
             - patient: Patient name (e.g., "Faridabibi I Pathan")
             - doctor: Doctor/Hospital name (e.g., "Raisa Anand", "Anand Laproscopy Centre", "Apara Hospital")
             - rpt_name: Report/scan type (e.g., "BRAIN WITH VENOGRAPHY", "H.R.C.T. CHEST SCREENING", "ABDOMEN PLAIN STUDY")
-            - city: Patient city (e.g., "Anand", "Dakor", "Thasra")
+            - city: Patient city (e.g., "Anand", "Khambhat", "nAVLI")
             - total_amt, discount, net_amt, paid_amt: Financial amounts
             
             Common report types: Chest screenings, Abdomen studies, Emergency charges
             Common doctors: Raisa Anand, Anand Laproscopy Centre, Apara Hospital
-            Common cities: Anand, Dakor, Thasra
+            Common cities: Anand, Khambat, Navli 
             
             Current user context: "{current_query}"
             
